@@ -1,0 +1,41 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+env/
+venv/
+ENV/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Packages
+*.egg-info/
+dist/
+build/
+
+# SQLite DB (if you use it)
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# Secrets
+.env
+*.env
+
+# Node (if you ever use Node)
+node_modules/
+
+# Frontend build
+/frontend/dist/
+/frontend/build/
